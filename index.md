@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## How to set your Minecraft client to the same version as the server
 
-You can use the [editor on GitHub](https://github.com/kaeaton/minecraftversion.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Pebble is supposed to auto-update the version of our server, but hasn't yet. So to access our server, you need to run the last version of Minecraft (in this case 1.16.2)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Start by going to installations.
 
-### Markdown
+![Image](https://artemisplayground.s3.us-east-2.amazonaws.com/static/share/images/Minecraft1.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Make sure only versions are checked, then select New.
 
-```markdown
-Syntax highlighted code block
+![Image](https://artemisplayground.s3.us-east-2.amazonaws.com/static/share/images/Minecraft2.png)
 
-# Header 1
-## Header 2
-### Header 3
+Name your new installation something easy to identify, then select the version dropdown.
 
-- Bulleted
-- List
+![Image](https://artemisplayground.s3.us-east-2.amazonaws.com/static/share/images/Minecraft3.png)
 
-1. Numbered
-2. List
+In this case we want 1.16.2.
 
-**Bold** and _Italic_ and `Code` text
+![Image](https://artemisplayground.s3.us-east-2.amazonaws.com/static/share/images/Minecraft4.png)
 
-[Link](url) and ![Image](src)
-```
+You can leave the other settings at their defaults. Click create.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](https://artemisplayground.s3.us-east-2.amazonaws.com/static/share/images/Minecraft5.png)
 
-### Jekyll Themes
+Select your new version on the home screen and you're good to go!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kaeaton/minecraftversion.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Image](https://artemisplayground.s3.us-east-2.amazonaws.com/static/share/images/Minecraft6.png)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
